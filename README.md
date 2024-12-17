@@ -1,2 +1,2 @@
-# namsa_exam
-Dedicated to the code for the News and Market Sentiment Analysis (namsa) exam.
+# Wallstreetbets
+Code for basic Wallstreetbets sentiment analysis correlation with markets.
